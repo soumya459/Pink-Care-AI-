@@ -8,7 +8,7 @@ An informational chatbot providing general, guideline-grounded information about
 
 ## Live App
 
-https://aistudio.google.com/apps/7ba3e59a-10c2-4c41-840c-030c94f41ccc?showAssistant=true&showPreview=true
+https://ai.studio/apps/7ba3e59a-10c2-4c41-840c-030c94f41ccc
 
 
 ---
